@@ -2,4 +2,4 @@
 
 Check notebook for the developed multilevel model.
 
-For running the notebook, you would need PyMC package.
+For running the notebook, you would to install PyMC package.
