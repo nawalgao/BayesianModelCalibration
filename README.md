@@ -1,6 +1,5 @@
-# Problem at hand
+# Bayesian Multilevel Modeling for Model Calibration
 
-Here's the problem we have:
-$$y = f(x, k_0, k_1, k_3),$$
+Check notebook for the developed multilevel model.
 
-where $y$ is the skin stress value; $x$ is the elongation; $k_0$, $k_1$ and $k_2$ are uncertain model parameters. 
+For running the notebook, you would need PyMC package.
